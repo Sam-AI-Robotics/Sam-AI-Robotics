@@ -58,6 +58,10 @@ I am a **Robotics & Bionics Enthusiast** specializing in **Mechanical Design** a
 * 🛠️ **Mechanical Design:** Engineered electronics enclosures validated through **FEA** for underwater depth pressures.
 * 🧭 **Propulsion & Stability:** Optimized thruster geometry and conducted buoyancy analysis in **MATLAB**.
 
+### 🛸 Drone Flight Simulation
+* **MATLAB Simulation:** Used MATLAB Live Script to run the drone urdf using 'importrobot'
+* **Physics:** Added Real World flight conditions to the simulation with speed [**throttle**] and height [**hover**] control using PID
+
 ### 🦾 Techman TM5-900 Kinematics
 * 🤖 **Digital Twin:** Developed high-fidelity CAD models for reach analysis and movement simulation.
 
